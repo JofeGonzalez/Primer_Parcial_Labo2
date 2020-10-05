@@ -1,0 +1,2 @@
+Luis,Perez,11111111,Día,25000
+Pedro,Martinez,22222222,Noche,28000

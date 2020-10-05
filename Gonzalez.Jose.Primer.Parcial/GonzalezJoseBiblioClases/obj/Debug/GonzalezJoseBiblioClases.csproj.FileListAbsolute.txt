@@ -1,0 +1,6 @@
+C:\Users\jgonz\source\repos\Gonzalez.Jose.Primer.Parcial\GonzalezJoseBiblioClases\bin\Debug\GonzalezJoseBiblioClases.dll
+C:\Users\jgonz\source\repos\Gonzalez.Jose.Primer.Parcial\GonzalezJoseBiblioClases\bin\Debug\GonzalezJoseBiblioClases.pdb
+C:\Users\jgonz\source\repos\Gonzalez.Jose.Primer.Parcial\GonzalezJoseBiblioClases\obj\Debug\GonzalezJoseBiblioClases.csprojAssemblyReference.cache
+C:\Users\jgonz\source\repos\Gonzalez.Jose.Primer.Parcial\GonzalezJoseBiblioClases\obj\Debug\GonzalezJoseBiblioClases.csproj.CoreCompileInputs.cache
+C:\Users\jgonz\source\repos\Gonzalez.Jose.Primer.Parcial\GonzalezJoseBiblioClases\obj\Debug\GonzalezJoseBiblioClases.dll
+C:\Users\jgonz\source\repos\Gonzalez.Jose.Primer.Parcial\GonzalezJoseBiblioClases\obj\Debug\GonzalezJoseBiblioClases.pdb

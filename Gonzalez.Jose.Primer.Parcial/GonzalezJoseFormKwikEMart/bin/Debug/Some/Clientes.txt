@@ -1,0 +1,7 @@
+Mary,Suarez,12345678,Las Piedras 1500
+Juan,Soza,13579086,Eva Peron 2000
+Javier,Fernandez,98760543,Diaz Velez 2500
+Paula,Peraza,24680975,Gral. Ferre 1823
+Andrea,Gil,10573984,Gral. Arias 1245
+Jose,Gonzalez,91249121,San Juan 1241
+Homero,Simpson,12345432,Springfield

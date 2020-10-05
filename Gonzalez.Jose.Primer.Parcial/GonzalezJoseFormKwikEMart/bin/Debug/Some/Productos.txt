@@ -1,0 +1,31 @@
+Harina de Trigo,12,20
+Cafe,10,250
+Azucar,15,50
+Cereal,12,80
+Leche,3,65
+Harina de Maiz,8,200
+Vino,10,100
+Atun,5,200
+Ketchup,10,80
+Mayonesa,10,80
+Mostaza,14,100
+BBQ,2,75
+CocaCola,21,150
+PepsiCola,30,130
+ManaosCola,16,60
+Oreos,19,65
+Pepas,3,100
+Tallarines,6,50
+Papel Toilett,60,80
+Papel Secante,48,60
+Servilletas,35,60
+Vodka,6,150
+Ron,3,200
+Velas,20,100
+Fosforos,25,50
+Pega La Gotita,5,180
+Pan de Panchos,6,100
+Alcohol,12,200
+Alcohol en Gel,24,250
+Pilas AAA,4,200
+Pan,2,50

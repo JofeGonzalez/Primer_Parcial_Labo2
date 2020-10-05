@@ -1,0 +1,230 @@
+Vendedor,Luis,Perez,Fecha,5/1/2020 19:42:37
+Cliente,Mary,Suarez
+Harina de Trigo,1,20
+BBQ,1,75
+Precio Total: 95
+Vendedor,Pedro,Martinez,Fecha,15/1/2020 19:43:24
+Cliente,Juan,Soza
+Cafe,1,250
+Ron,1,200
+Precio Total: 450
+Vendedor,Luis,Perez,Fecha,25/3/2020 19:43:58
+Cliente,Javier,Fernandez
+Pan,1,50
+Precio Total: 50
+Vendedor,Pedro,Martinez,Fecha,21/1/2020 19:42:37
+Cliente,Mary,Suarez
+Harina de Trigo,1,20
+BBQ,1,75
+Precio Total: 95
+Vendedor,Luis,Perez,Fecha,12/3/2020 19:43:24
+Cliente,Juan,Soza
+Cafe,1,250
+Ron,1,200
+Precio Total: 450
+Vendedor,Pedro,Martinez,Fecha,4/7/2020 19:43:58
+Cliente,Javier,Fernandez
+Pan,1,50
+Precio Total: 50
+Vendedor,Luis,Perez,Fecha,23/8/2020 19:42:37
+Cliente,Mary,Suarez
+Harina de Trigo,1,20
+BBQ,1,75
+Precio Total: 95
+Vendedor,Pedro,Martinez,Fecha,23/3/2020 19:43:24
+Cliente,Juan,Soza
+Cafe,1,250
+Ron,1,200
+Precio Total: 450
+Vendedor,Luis,Perez,Fecha,1/12/2019 19:43:58
+Cliente,Javier,Fernandez
+Pan,1,50
+Precio Total: 50
+Vendedor,Pedro,Martinez,Fecha,5/10/2018 19:43:58
+Cliente,Javier,Fernandez
+Pan,1,50
+Precio Total: 50
+Vendedor,Luis,Perez,Fecha,15/11/2019 19:42:37
+Cliente,Mary,Suarez
+Harina de Trigo,1,20
+BBQ,1,75
+Precio Total: 95
+Vendedor,Pedro,Martinez,Fecha,26/12/2019 19:43:24
+Cliente,Juan,Soza
+Cafe,1,250
+Ron,1,200
+Precio Total: 450
+Vendedor,Luis,Perez,Fecha,31/7/2017 19:43:58
+Cliente,Javier,Fernandez
+Pan,1,50
+Precio Total: 50
+Vendedor,Pedro,Martinez,Fecha,16/2/2020 19:42:37
+Cliente,Mary,Suarez
+Harina de Trigo,1,20
+BBQ,1,75
+Precio Total: 95
+Vendedor,Luis,Perez,Fecha,15/6/2020 19:43:24
+Cliente,Juan,Soza
+Cafe,1,250
+Ron,1,200
+Precio Total: 450
+Vendedor,Pedro,Martinez,Fecha,9/9/2020 19:43:58
+Cliente,Javier,Fernandez
+Pan,1,50
+Precio Total: 50
+Vendedor,Luis,Perez,Fecha,8/8/2018 19:42:37
+Cliente,Mary,Suarez
+Harina de Trigo,1,20
+BBQ,1,75
+Precio Total: 95
+Vendedor,Pedro,Martinez,Fecha,12/4/2019 19:43:24
+Cliente,Juan,Soza
+Cafe,1,250
+Ron,1,200
+Precio Total: 450
+Vendedor,Luis,Perez,Fecha,27/10/2015 19:43:58
+Cliente,Javier,Fernandez
+Pan,1,50
+Precio Total: 50
+Vendedor,Pedro,Martinez,Fecha,1/12/2019 19:43:58
+Cliente,Javier,Fernandez
+Pan,1,50
+Precio Total: 50
+Vendedor,Luis,Perez,Fecha,24/2/2016 19:42:37
+Cliente,Mary,Suarez
+Harina de Trigo,1,20
+BBQ,1,75
+Precio Total: 95
+Vendedor,Pedro,Martinez,Fecha,25/12/2017 19:43:24
+Cliente,Juan,Soza
+Cafe,1,250
+Ron,1,200
+Precio Total: 450
+Vendedor,Luis,Perez,Fecha,17/5/2020 19:43:58
+Cliente,Javier,Fernandez
+Pan,1,50
+Precio Total: 50
+Vendedor,Pedro,Martinez,Fecha,12/5/2019 19:42:37
+Cliente,Mary,Suarez
+Harina de Trigo,1,20
+BBQ,1,75
+Precio Total: 95
+Vendedor,Luis,Perez,Fecha,18/1/2020 19:43:24
+Cliente,Juan,Soza
+Cafe,1,250
+Ron,1,200
+Precio Total: 450
+Vendedor,Pedro,Martinez,Fecha,23/12/2020 19:43:58
+Cliente,Javier,Fernandez
+Pan,1,50
+Precio Total: 50
+Vendedor,Luis,Perez,Fecha,12/2/2016 19:42:37
+Cliente,Mary,Suarez
+Harina de Trigo,1,20
+BBQ,1,75
+Precio Total: 95
+Vendedor,Pedro,Martinez,Fecha,5/11/2018 19:43:24
+Cliente,Juan,Soza
+Cafe,1,250
+Ron,1,200
+Precio Total: 450
+Vendedor,Luis,Perez,Fecha,25/12/2019 19:43:58
+Cliente,Javier,Fernandez
+Pan,1,50
+Precio Total: 50
+Vendedor,Pedro,Martinez,Fecha,13/4/2019 19:43:58
+Cliente,Javier,Fernandez
+Pan,1,50
+Precio Total: 50
+Vendedor,Luis,Perez,Fecha,15/5/2018 19:42:37
+Cliente,Mary,Suarez
+Harina de Trigo,1,20
+BBQ,1,75
+Precio Total: 95
+Vendedor,Pedro,Martinez,Fecha,23/3/2020 19:43:24
+Cliente,Juan,Soza
+Cafe,1,250
+Ron,1,200
+Precio Total: 450
+Vendedor,Luis,Perez,Fecha,13/3/2019 19:43:58
+Cliente,Javier,Fernandez
+Pan,1,50
+Precio Total: 50
+Vendedor,Pedro,Martinez,Fecha,23/3/2020 19:42:37
+Cliente,Mary,Suarez
+Harina de Trigo,1,20
+BBQ,1,75
+Precio Total: 95
+Vendedor,Luis,Perez,Fecha,6/5/2020 19:43:24
+Cliente,Juan,Soza
+Cafe,1,250
+Ron,1,200
+Precio Total: 450
+Vendedor,Pedro,Martinez,Fecha,5/12/2014 19:43:58
+Cliente,Javier,Fernandez
+Pan,1,50
+Precio Total: 50
+Vendedor,Luis,Perez,Fecha,2/10/2018 19:42:37
+Cliente,Mary,Suarez
+Harina de Trigo,1,20
+BBQ,1,75
+Precio Total: 95
+Vendedor,Pedro,Martinez,Fecha,8/11/2019 19:43:24
+Cliente,Juan,Soza
+Cafe,1,250
+Ron,1,200
+Precio Total: 450
+Vendedor,Luis,Perez,Fecha,16/1/2019 19:43:58
+Cliente,Javier,Fernandez
+Pan,1,50
+Precio Total: 50
+Vendedor,Pedro,Martinez,Fecha,15/2/2020 19:43:58
+Cliente,Javier,Fernandez
+Pan,1,50
+Precio Total: 50
+Vendedor,Luis,Perez,Fecha,5/6/2020 19:42:37
+Cliente,Mary,Suarez
+Harina de Trigo,1,20
+BBQ,1,75
+Precio Total: 95
+Vendedor,Pedro,Martinez,Fecha,15/8/2019 19:43:24
+Cliente,Juan,Soza
+Cafe,1,250
+Ron,1,200
+Precio Total: 450
+Vendedor,Luis,Perez,Fecha,17/6/2020 19:43:58
+Cliente,Javier,Fernandez
+Pan,1,50
+Precio Total: 50
+Vendedor,Pedro,Martinez,Fecha,12/8/2020 19:42:37
+Cliente,Mary,Suarez
+Harina de Trigo,1,20
+BBQ,1,75
+Precio Total: 95
+Vendedor,Luis,Perez,Fecha,14/5/2018 19:43:24
+Cliente,Juan,Soza
+Cafe,1,250
+Ron,1,200
+Precio Total: 450
+Vendedor,Pedro,Martinez,Fecha,18/5/2016 19:43:58
+Cliente,Javier,Fernandez
+Pan,1,50
+Precio Total: 50
+Vendedor,Luis,Perez,Fecha,5/10/2014 19:42:37
+Cliente,Mary,Suarez
+Harina de Trigo,1,20
+BBQ,1,75
+Precio Total: 95
+Vendedor,Pedro,Martinez,Fecha,23/4/2019 19:43:24
+Cliente,Juan,Soza
+Cafe,1,250
+Ron,1,200
+Precio Total: 450
+Vendedor,Luis,Perez,Fecha,5/11/2018 19:43:58
+Cliente,Javier,Fernandez
+Pan,1,50
+Precio Total: 50
+Vendedor,Pedro,Martinez,Fecha,3/6/2020 19:43:58
+Cliente,Javier,Fernandez
+Pan,1,50
+Precio Total: 50
